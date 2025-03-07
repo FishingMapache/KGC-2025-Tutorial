@@ -82,6 +82,7 @@ Attendees are expected to have a basic grounding in machine learning and neural 
 ## 🔗 References
 * d’Garcez, A. S., & Lamb, L. C. (2023). Neurosymbolic AI: The 3rd wave. Artificial Intelligence Review.
 * Besold, T. R., d’Garcez, A. S., et al. (2017). Neural-Symbolic Learning and Reasoning: A Survey and Interpretation. In Neural-Symbolic Learning and Reasoning (Springer).
+* A. Sheth and K. Thirunarayan, "The Duality of Data and Knowledge Across the Three Waves of AI," in IT Professional, vol. 23, no. 3, pp. 35-45, 1 May-June 2021, doi: 10.1109/MITP.2021.3070985. 
 * Sheth, A., Roy, K., & Gaur, M. (2023). Neurosymbolic AI: Why, What, and How. arXiv preprint.
 * Roy, K., Gaur, M., & Sheth, A. (2022). Process Knowledge-Infused Learning for Suicidality Assessment on Social Media. arXiv preprint.
 * Gaur, M., Faldu, K., & Sheth, A. (2021). Semantics of the black-box: Can knowledge graphs help make deep learning systems more interpretable and explainable? IEEE Internet Computing, 25(1), 51-59.
